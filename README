@@ -1,5 +1,5 @@
 
 
 ### How to run
-python twitter_follower.py -u 50 -a bitwisenoise "test.csv"
+python twitter_follower.py -u 50 -a <account_name> "test.csv"
 
